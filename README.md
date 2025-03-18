@@ -13,8 +13,6 @@
 2. In Blender, go to `Edit > Preferences > Add-ons`.
 3. Click `Install`, select the `.py` file, and enable the add-on.
 
-   ![Installation Screenshot](images/installation.png)
-
 ## Usage
 1. Open the Node Editor and switch to Compositing mode.
 2. In the sidebar (`N` key), find the "Compositing" tab.
