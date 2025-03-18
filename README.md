@@ -18,9 +18,9 @@
    - Set **Render Output Path**, **File Output Directory**, and **Image Format**.
 4. Adjust settings as needed and render your scene.
 
-   ![Panel Screenshot](images/panel.png)
+   ![Panel Screenshot](panel.png)
 
-   ![Node Setup Example](images/node_setup.png)
+   ![Node Setup Example](image.gif)
 
 ## Features
 - Creates render layer nodes per view layer.
