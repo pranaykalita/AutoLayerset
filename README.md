@@ -13,6 +13,8 @@
 2. In Blender, go to `Edit > Preferences > Add-ons`.
 3. Click `Install`, select the `.py` file, and enable the add-on.
 
+   ![Installation Screenshot](images/installation.png)
+
 ## Usage
 1. Open the Node Editor and switch to Compositing mode.
 2. In the sidebar (`N` key), find the "Compositing" tab.
@@ -21,6 +23,10 @@
    - **Setup Compositor**: Configures render layers and file outputs.
    - Set **Render Output Path**, **File Output Directory**, and **Image Format**.
 4. Adjust settings as needed and render your scene.
+
+   ![Panel Screenshot](images/panel.png)
+
+   ![Node Setup Example](images/node_setup.png)
 
 ## Features
 - Creates render layer nodes per view layer.
