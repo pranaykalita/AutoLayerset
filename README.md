@@ -1,5 +1,9 @@
 # Auto Compositing layer Setup
 
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download Addon](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://pranaykalita.gumroad.com/l/autosetup)
+<!-- END LATEST DOWNLOAD BUTTON -->
+
 ## Overview
 "Auto Compositing Setup" is a Blender add-on that auto-configures render layer & file output nodes in the Node Editor. It avoids duplicates, sets output paths & formats (PNG, JPEG, etc.), & removes unused nodes. For Blender 4.0.0+, it enhances Compositing workflows with a simple UI.
 
