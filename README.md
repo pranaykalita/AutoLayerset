@@ -32,8 +32,3 @@
 - Ensure "Use Nodes" is enabled in the Compositing tab.
 - Default paths are relative (`//output`, `//x/render_`); adjust as absolute if needed.
 
-## License
-This add-on is provided as-is under the MIT License. See the script for details.
-
-## Support
-For issues or suggestions, contact the author or raise an issue on this repository (if hosted).
